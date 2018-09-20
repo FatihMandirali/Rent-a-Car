@@ -107,6 +107,9 @@ namespace Araba_Kiralama
 
         private void anasayfa_Load(object sender, EventArgs e)
         {
+
+            //bunu ekledimmm...
+
             int say=0;
             int fark;
             baglan.Open();

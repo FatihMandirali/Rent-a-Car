@@ -43,3 +43,6 @@ F:\Dersler\c# uygulama\Ozeller\Araba_Kiralama\Araba_Kiralama\obj\Debug\Araba_Kir
 F:\Dersler\c# uygulama\Ozeller\Araba_Kiralama\Araba_Kiralama\obj\Debug\Araba_Kiralama.ArabaKirala.resources
 F:\Dersler\c# uygulama\Ozeller\Araba_Kiralama\Araba_Kiralama\obj\Debug\Araba_Kiralama.KiradakiArabalar.resources
 F:\Dersler\c# uygulama\Ozeller\Araba_Kiralama\Araba_Kiralama\obj\Debug\Araba_Kiralama.Malidurum.resources
+C:\Users\user\Source\Repos\Rent-a-Car\Araba_Kiralama\bin\Debug\Araba_Kiralama.exe.config
+C:\Users\user\Source\Repos\Rent-a-Car\Araba_Kiralama\obj\Debug\Araba_Kiralama.exe
+C:\Users\user\Source\Repos\Rent-a-Car\Araba_Kiralama\obj\Debug\Araba_Kiralama.pdb
