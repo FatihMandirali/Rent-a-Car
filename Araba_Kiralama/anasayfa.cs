@@ -107,7 +107,7 @@ namespace Araba_Kiralama
 
         private void anasayfa_Load(object sender, EventArgs e)
         {
-
+            //Anasayfaa
             //bunu ekledimmm...
 
             int say=0;
